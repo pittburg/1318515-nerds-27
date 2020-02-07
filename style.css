@@ -1,0 +1,32 @@
+.order {
+    width: 82px;
+    height: 13px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: center;
+    text-transform: uppercase;
+    border: 0;
+    border-radius: 2px;
+    color: #ffffff;
+}
+.redbtn {
+    width: 160px;
+    height: 50px;
+    background-color: #fb565a;
+}
+.grnbtn {
+    width: 160px;
+    height: 50px;
+    background-color: #00ca74;
+}
+.yelbtn {
+    width: 160px;
+    height: 50px;
+    background-color: #efc84a;
+}
+/*временные стили кнопок заказа*/
